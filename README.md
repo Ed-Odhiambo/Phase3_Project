@@ -1,5 +1,7 @@
 # Phase3_Project
 
+![1684527168943](https://file+.vscode-resource.vscode-cdn.net/home/pandora/Documents/Flatiron/Phase_3/Project_Phase_3/Phase3_Project/image/README/1684527168943.png)
+
 #### Overview
 
 Most naturally, your audience here would be the telecom business itself, interested in reducing how much money is lost because of customers who don't stick around very long. The question you can ask is: are there any predictable patterns here?
