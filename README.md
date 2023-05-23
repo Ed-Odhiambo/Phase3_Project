@@ -1,4 +1,4 @@
-# Phase3_Project
+# SyriaTel Communications Churn Analysis
 
 ![1684527521844](image/README/1684527521844.png)
 
